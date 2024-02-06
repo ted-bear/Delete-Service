@@ -6,6 +6,7 @@
 3. Spring Data Jpa
 4. Lombok
 5. PostgreSQL
+6. Maven
 
 ## Структура проекта является классической реализацией MVC
 1. Controller отвечает за обработку запросов: BatchController, CarController, DocumentController, UserController
