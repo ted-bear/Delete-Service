@@ -25,6 +25,4 @@ public class BatchServiceImpl implements BatchService {
     public void updateDocumentsTable() {
         batchRepository.add4MillionsDocuments();
     }
-
-
 }
