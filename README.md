@@ -2,9 +2,10 @@
 
 ## В данном проекте был создан API с использованием так технологий как:
 1. Java 17
-2. Spring Data Jpa
-3. Lombok
-4. PostgreSQL
+2. Spring boot v3.2.2
+3. Spring Data Jpa
+4. Lombok
+5. PostgreSQL
 
 ## Структура проекта является классической реализацией MVC
 1. Controller отвечает за обработку запросов: BatchController, CarController, DocumentController, UserController
